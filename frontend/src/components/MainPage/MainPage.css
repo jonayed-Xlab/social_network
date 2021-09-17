@@ -1,0 +1,10 @@
+.mainpage__uploadicon{
+    height: 100px;
+    width: 100px;
+}
+.fileupload > input{
+    display: none;
+}
+.upload__text{
+    text-align: center;
+}
